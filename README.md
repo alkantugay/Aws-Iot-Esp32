@@ -21,10 +21,29 @@ Second, Follow the images
 
 ![5](https://user-images.githubusercontent.com/51509025/65773729-7bf29800-e145-11e9-82dc-bba3cdf9187b.JPG)
 
-NOTE: 
+NOTE: ....
 
 ![6](https://user-images.githubusercontent.com/51509025/65773744-844ad300-e145-11e9-8850-dafa2615ca58.JPG)
+
+NOTE:...
 
 ![7](https://user-images.githubusercontent.com/51509025/65773757-8ad94a80-e145-11e9-87a1-f22c99b174b5.JPG)
 
 ![8](https://user-images.githubusercontent.com/51509025/65773780-9593df80-e145-11e9-8195-023367eecb79.JPG)
+
+
+![9](https://user-images.githubusercontent.com/51509025/65774761-975ea280-e147-11e9-8019-17990834ac29.JPG)
+
+![10](https://user-images.githubusercontent.com/51509025/65774787-a2b1ce00-e147-11e9-8ca0-1e9c1aff63e1.JPG)
+
+![11](https://user-images.githubusercontent.com/51509025/65774839-ba895200-e147-11e9-81c3-4dafd27002a8.JPG)
+
+![12](https://user-images.githubusercontent.com/51509025/65774845-bc531580-e147-11e9-9201-cab726ab4e40.JPG)
+
+![13](https://user-images.githubusercontent.com/51509025/65774848-bd844280-e147-11e9-95d5-2d361d6a5e36.JPG)
+
+![14](https://user-images.githubusercontent.com/51509025/65774851-beb56f80-e147-11e9-8d72-a36a10ef08bb.JPG)
+
+![15](https://user-images.githubusercontent.com/51509025/65774855-bfe69c80-e147-11e9-9d1e-3bdaa570c1e7.JPG)
+
+![16](https://user-images.githubusercontent.com/51509025/65774863-c1b06000-e147-11e9-9158-35f17125ffdd.JPG)
