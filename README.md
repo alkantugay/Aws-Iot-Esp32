@@ -21,6 +21,8 @@ Second, Follow the images
 
 ![5](https://user-images.githubusercontent.com/51509025/65773729-7bf29800-e145-11e9-82dc-bba3cdf9187b.JPG)
 
+NOTE: 
+
 ![6](https://user-images.githubusercontent.com/51509025/65773744-844ad300-e145-11e9-8850-dafa2615ca58.JPG)
 
 ![7](https://user-images.githubusercontent.com/51509025/65773757-8ad94a80-e145-11e9-87a1-f22c99b174b5.JPG)
