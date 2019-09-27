@@ -21,13 +21,15 @@ Second, Follow the images
 
 ![5](https://user-images.githubusercontent.com/51509025/65773729-7bf29800-e145-11e9-82dc-bba3cdf9187b.JPG)
 
-NOTE: ....
+** Rooot Ca link navigate you to other tab
 
 ![6](https://user-images.githubusercontent.com/51509025/65773744-844ad300-e145-11e9-8850-dafa2615ca58.JPG)
 
-NOTE:...
+** click root Ca 1
 
 ![7](https://user-images.githubusercontent.com/51509025/65773757-8ad94a80-e145-11e9-87a1-f22c99b174b5.JPG)
+
+** Copy and paste to word file, save as Amazon Root CA 1.docx
 
 ![10](https://user-images.githubusercontent.com/51509025/65774787-a2b1ce00-e147-11e9-8ca0-1e9c1aff63e1.JPG)
 
@@ -35,7 +37,6 @@ NOTE:...
 
 
 ![9](https://user-images.githubusercontent.com/51509025/65774761-975ea280-e147-11e9-8019-17990834ac29.JPG)
-
 
 
 ![11](https://user-images.githubusercontent.com/51509025/65774839-ba895200-e147-11e9-81c3-4dafd27002a8.JPG)
