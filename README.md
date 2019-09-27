@@ -21,15 +21,15 @@ Second, Follow the images
 
 ![5](https://user-images.githubusercontent.com/51509025/65773729-7bf29800-e145-11e9-82dc-bba3cdf9187b.JPG)
 
-** Rooot Ca link navigate you to other tab
+*Rooot Ca link navigate you to other tab
 
 ![6](https://user-images.githubusercontent.com/51509025/65773744-844ad300-e145-11e9-8850-dafa2615ca58.JPG)
 
-** click root Ca 1
+*click root Ca 1
 
 ![7](https://user-images.githubusercontent.com/51509025/65773757-8ad94a80-e145-11e9-87a1-f22c99b174b5.JPG)
 
-** Copy and paste to word file, save as Amazon Root CA 1.docx
+*Copy and paste to word file, save as Amazon Root CA 1.docx
 
 ![10](https://user-images.githubusercontent.com/51509025/65774787-a2b1ce00-e147-11e9-8ca0-1e9c1aff63e1.JPG)
 
@@ -50,3 +50,5 @@ Second, Follow the images
 ![15](https://user-images.githubusercontent.com/51509025/65774855-bfe69c80-e147-11e9-9d1e-3bdaa570c1e7.JPG)
 
 ![16](https://user-images.githubusercontent.com/51509025/65774863-c1b06000-e147-11e9-9158-35f17125ffdd.JPG)
+
+Aws part done! lets configure the arduino part
