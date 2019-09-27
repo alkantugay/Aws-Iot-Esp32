@@ -29,12 +29,14 @@ NOTE:...
 
 ![7](https://user-images.githubusercontent.com/51509025/65773757-8ad94a80-e145-11e9-87a1-f22c99b174b5.JPG)
 
+![10](https://user-images.githubusercontent.com/51509025/65774787-a2b1ce00-e147-11e9-8ca0-1e9c1aff63e1.JPG)
+
 ![8](https://user-images.githubusercontent.com/51509025/65773780-9593df80-e145-11e9-8195-023367eecb79.JPG)
 
 
 ![9](https://user-images.githubusercontent.com/51509025/65774761-975ea280-e147-11e9-8019-17990834ac29.JPG)
 
-![10](https://user-images.githubusercontent.com/51509025/65774787-a2b1ce00-e147-11e9-8ca0-1e9c1aff63e1.JPG)
+
 
 ![11](https://user-images.githubusercontent.com/51509025/65774839-ba895200-e147-11e9-81c3-4dafd27002a8.JPG)
 
